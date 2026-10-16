@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "SENATI TaskHub",
+  "short_name": "TaskHub",
+  "description": "Bandeja académica offline para organizar tareas y entregas.",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5f7fb",
+  "theme_color": "#145cbd",
+  "icons": [
+    {
+      "src": "/assets/taskhub-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "task-001",
+    "course": "Desarrollo de Aplicaciones Web",
+    "title": "Maquetación responsive de una página institucional",
+    "dueDate": "2026-10-24",
+    "academicStatus": "En curso"
+  },
+  {
+    "id": "task-002",
+    "course": "Desarrollo de Aplicaciones Web",
+    "title": "Formulario de registro con validaciones",
+    "dueDate": "2026-10-28",
+    "academicStatus": "Pendiente"
+  },
+  {
+    "id": "task-003",
+    "course": "Programación en TypeScript",
+    "title": "Modelado de datos con interfaces",
+    "dueDate": "2026-10-21",
+    "academicStatus": "En curso"
+  },
+  {
+    "id": "task-004",
+    "course": "Programación en TypeScript",
+    "title": "Consumo de servicios y manejo de errores",
+    "dueDate": "2026-10-30",
+    "academicStatus": "Pendiente"
+  },
+  {
+    "id": "task-005",
+    "course": "Fundamentos de Redes",
+    "title": "Mapa de direccionamiento de red local",
+    "dueDate": "2026-10-26",
+    "academicStatus": "Por iniciar"
+  },
+  {
+    "id": "task-006",
+    "course": "Fundamentos de Redes",
+    "title": "Práctica de diagnóstico de conectividad",
+    "dueDate": "2026-11-02",
+    "academicStatus": "En curso"
+  },
+  {
+    "id": "task-007",
+    "course": "Bases de Datos",
+    "title": "Diseño de un modelo relacional",
+    "dueDate": "2026-10-29",
+    "academicStatus": "Pendiente"
+  }
+]
